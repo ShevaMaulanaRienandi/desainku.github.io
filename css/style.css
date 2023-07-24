@@ -68,11 +68,7 @@ h6 {
      padding: 0 0 10px 0;
      font-weight: normal;
      line-height: normal;
-<<<<<<< HEAD
      color: #111111;
-=======
-     color: #ffffff;
->>>>>>> 2309102 (new)
      margin: 0
 }
 
@@ -426,23 +422,16 @@ ul.btn li:last-child {
      line-height: 40px;
 }
 
-<<<<<<< HEAD
-=======
 .logo {
      margin-top: 0;
 }
 
->>>>>>> 2309102 (new)
 
 /** banner section **/
 
 .banner_main {
-<<<<<<< HEAD
-     background: url(../images/banner.jpg);
-=======
      background-image: url(../images/banner.jpg);
      width: 100%;
->>>>>>> 2309102 (new)
      background-repeat: no-repeat;
      min-height: 900px;
      background-size: 100% 100%;
@@ -455,13 +444,8 @@ ul.btn li:last-child {
 .banner_main::before {
      position: absolute;
      content: "";
-<<<<<<< HEAD
-     width:50px; 
-     height:40px;
-=======
      width:auto; 
      height:auto;
->>>>>>> 2309102 (new)
      background: url(../images/cross.png);
      background-repeat: no-repeat;
      bottom: -38px;
@@ -470,13 +454,8 @@ ul.btn li:last-child {
 .banner_main::after {
      position: absolute;
      content: "";
-<<<<<<< HEAD
-     width:50px; 
-     height:40px;
-=======
      width:auto; 
      height:auto;
->>>>>>> 2309102 (new)
      background: url(../images/cross.png);
      background-repeat: no-repeat;
      bottom: -38px;
@@ -532,11 +511,7 @@ ul.btn li:last-child {
 }
 
 #banner1 .carousel-inner {
-<<<<<<< HEAD
-     padding-right: 130px;
-=======
      padding-right: auto;
->>>>>>> 2309102 (new)
 }
 
 #banner1 .carousel-indicators {
@@ -953,13 +928,8 @@ ul.btn li:last-child {
 }
 
 .logo1 {
-<<<<<<< HEAD
-     float: left;
-     margin-top: -30px;
-=======
      float: auto;
      margin-top: 0;
->>>>>>> 2309102 (new)
 }
 
 ul.social_icon {

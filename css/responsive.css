@@ -174,15 +174,11 @@
     .logo {
         text-align: center !important;
         padding-bottom: 6px;
-<<<<<<< HEAD
-        float: left;
-=======
         float: center;
     }
     .logo1 {
         width: 100px;
         height: 100px;
->>>>>>> 2309102 (new)
     }
     #banner1 .carousel-inner {
         padding-right: 0;
